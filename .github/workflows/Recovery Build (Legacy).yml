@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'twrp_x20960_5m_wxga_v1'
+        default: 'omni_x20960_5m_wxga_v1'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
